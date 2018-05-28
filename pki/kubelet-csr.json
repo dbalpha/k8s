@@ -1,0 +1,1 @@
+{"CN":"system:node:$NODE","key":{"algo":"rsa","size":2048},"names":[{"C":"BJ","L":"BJ","ST":"BJ","O":"system:nodes","OU":"Kubernetes-manual"}]}
